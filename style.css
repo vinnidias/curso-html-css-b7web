@@ -7,10 +7,10 @@ h2{
   color: darkblue;
 }
 
-#primeiro {
+.texto, #primeiro{
     color: dodgerblue;
 }
 
-.texto{
-    color: dodgerblue;
+ul li{
+    color: deepskyblue;
 }
