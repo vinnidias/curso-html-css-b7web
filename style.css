@@ -14,3 +14,7 @@ h2{
 ul li{
     color: deepskyblue;
 }
+
+ol li {
+    color: blue;
+}
