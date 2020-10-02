@@ -3,7 +3,7 @@
 }
 
 body {
-  margin: 0px;
+  margin: 8px;
 }
 
 .link {
@@ -13,4 +13,20 @@ body {
 
 .link:hover {
 	color: #800080;
+}
+
+p {
+	color: #1e90ff;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Sansita Swashed', cursive;;
+	text-align: left;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
 }
